@@ -20,4 +20,4 @@ silahkan klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 [Open In Colab](https://colab.research.google.com/github/hazrilgilangramadhan-arch/Tugas-Hazril/blob/main/Tugas%20algoritma%20dan%20pemprograman%20pertemuan%205.ipynb)
 
 ### Pertemuan 7
-[Open In Colab](https://colab.research.google.com/github/hazrilgilangramadhan-arch/Tugas-Hazril/blob/main/Tugas%20algoritma%20dan%20pemprograman%20pertemuan%205.ipynb)
+[Open In Colab](https://colab.research.google.com/github/hazrilgilangramadhan-arch/Tugas-Hazril/blob/main/Tugas%20algoritma%20dan%20pemprograman%20pertemuan%207.ipynb)
