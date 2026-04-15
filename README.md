@@ -11,6 +11,10 @@ Program ini dibuat untuk menyelesaikan tugas [fizzbuzz dan konvensi hari].
 ### Pertemuan 5
 Program ini dibuat untuk menyelesaikan tugas [Analisi Nilai Rata Rata Mahasiswa dan Operasi Matrixs].
 
+### Pertemuan 7
+Program ini dibuat untuk menyelesaikan tugas [Struktur menghitung pangkat & menghitung deretan pecahan].
+
+
 ## Jalankan Program
 silahkan klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 ### Pertemuan 4
